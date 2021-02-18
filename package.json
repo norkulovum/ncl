@@ -1,0 +1,13 @@
+{
+  "name": "NCL",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "@types/jasmine": "^2.8.16",
+    "jasmine-spec-reporter": "~4.2.1",
+    "protractor": "^5.4.4",
+    "protractor-beautiful-reporter": "^1.2.7",
+    "ts-node": "8.0.1",
+    "typescript": "^3.1.6"
+  }
+}
